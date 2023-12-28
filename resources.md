@@ -92,6 +92,12 @@ A series of three courses for technical writers who want to learn how to write A
 ### [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/) by [Tom Johnson](https://idratherbewriting.com/learnapidoc/docapis_about_the_author.html)
 Course about writing documentation for REST APIs. You’ll learn about endpoints, parameters, data types, authentication, curl, JSON, the command line, Chrome’s Developer Console, JavaScript, and more. You’ll learn about the required sections in API documentation, analyze examples of REST API documentation from various companies, learn how to join an open-source project to get experience, and more.
 
+### [Tech: Write & Earn](https://startuptrybe.trainercentralsite.com/course/techwriteearn#/home) 
+This course is packed with all the information needed to get started with technical writing and at the end of the workshop you’d have written three technical articles of ur own.
+
+### [Technical Writing Certification Course](https://aptlearn.io/courses/technical-writing-certification-course/) 
+This is a course on AptLearn. With this, you'll master the fundamentals of technical writing as a beginner.
+
 ## Meta
 *Something as meta as writing about writing would not be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
 
